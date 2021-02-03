@@ -31,6 +31,8 @@ gradio
 
 Now we can deploy this by giving Gradio Github access through [Hosted](https://gradio.app/hosted), and picking the right repo. 
 
+<img src="https://i.ibb.co/54D8fMs/hosted-hello-world.gif"/>
 
+And here's the live link: https://gradio.app/g/aliabd/hosted-hello-world
 
-Feel free to fork this repo as a starting point for your Hosted project!  
+Feel free to fork this repo as a starting point for your Hosted project! 
